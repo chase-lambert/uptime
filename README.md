@@ -1,5 +1,5 @@
 This is a very simple little uptime monitor cli I use to monitor my main website.
-It sends a simple console message warning if anything other than status code `200`
+It sends a small console message warning if anything other than status code `200`
 is recieved.
 
 The code uses [ureq](https://github.com/algesten/ureq) which is a non async
